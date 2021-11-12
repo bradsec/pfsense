@@ -1,8 +1,9 @@
 # pfsense using Let's Encrypt Certificates and HAProxy
 
 **Use cases:**
-- Mitigate invalid/unverified certificate errors when connecting HTTPS only devices when accessing internal or external to the network.
-- Connect securely to web servers or web interfaced devices behind a firewall or in a DMZ
+- Connect securely to web servers or web administration interfaces behind a firewall or in a DMZ.
+- Mitigate invalid/unverified certificate errors when connecting to HTTPS only devices.
+
 
 **Requirements / Notes:**
 - Owner access to domain name with access to API such as Cloudflare or Namecheap
