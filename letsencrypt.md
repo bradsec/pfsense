@@ -2,7 +2,7 @@
 
 **Use cases:**
 - Connect securely to web servers or web administration interfaces behind a firewall or in a DMZ.
-- Mitigate invalid/unverified certificate errors when connecting to HTTPS only devices.
+- Mitigate invalid/unverified certificate errors like ```NET::ERR_CERT_AUTHORITY_INVALID``` when connecting to HTTPS only devices.
 
 
 **Requirements / Notes:**
